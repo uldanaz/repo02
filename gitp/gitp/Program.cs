@@ -6,7 +6,7 @@ namespace gitp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello KaspiLab!");
+            Console.WriteLine("Hello KaspiLab");
             Console.WriteLine(" this is test project! ");
         }
     }
