@@ -1,0 +1,13 @@
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\repo\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\repo\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
